@@ -1,0 +1,9 @@
+c:\users\fabricio\documents\visual studio 2015\Projects\CalculadoraBásica\CalculadoraBásica\bin\Debug\CalculadoraBásica.exe.config
+c:\users\fabricio\documents\visual studio 2015\Projects\CalculadoraBásica\CalculadoraBásica\bin\Debug\CalculadoraBásica.exe
+c:\users\fabricio\documents\visual studio 2015\Projects\CalculadoraBásica\CalculadoraBásica\bin\Debug\CalculadoraBásica.pdb
+c:\users\fabricio\documents\visual studio 2015\Projects\CalculadoraBásica\CalculadoraBásica\obj\Debug\CalculadoraBásica.csprojResolveAssemblyReference.cache
+c:\users\fabricio\documents\visual studio 2015\Projects\CalculadoraBásica\CalculadoraBásica\obj\Debug\CalculadoraBásica.Form1.resources
+c:\users\fabricio\documents\visual studio 2015\Projects\CalculadoraBásica\CalculadoraBásica\obj\Debug\CalculadoraBásica.Properties.Resources.resources
+c:\users\fabricio\documents\visual studio 2015\Projects\CalculadoraBásica\CalculadoraBásica\obj\Debug\CalculadoraBásica.csproj.GenerateResource.Cache
+c:\users\fabricio\documents\visual studio 2015\Projects\CalculadoraBásica\CalculadoraBásica\obj\Debug\CalculadoraBásica.exe
+c:\users\fabricio\documents\visual studio 2015\Projects\CalculadoraBásica\CalculadoraBásica\obj\Debug\CalculadoraBásica.pdb
