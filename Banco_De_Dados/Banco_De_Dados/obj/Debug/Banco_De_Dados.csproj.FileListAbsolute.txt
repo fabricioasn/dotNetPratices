@@ -1,0 +1,9 @@
+c:\users\fabricio\documents\visual studio 2015\Projects\Banco_De_Dados\Banco_De_Dados\bin\Debug\Banco_De_Dados.exe.config
+c:\users\fabricio\documents\visual studio 2015\Projects\Banco_De_Dados\Banco_De_Dados\bin\Debug\Banco_De_Dados.exe
+c:\users\fabricio\documents\visual studio 2015\Projects\Banco_De_Dados\Banco_De_Dados\bin\Debug\Banco_De_Dados.pdb
+c:\users\fabricio\documents\visual studio 2015\Projects\Banco_De_Dados\Banco_De_Dados\obj\Debug\Banco_De_Dados.csprojResolveAssemblyReference.cache
+c:\users\fabricio\documents\visual studio 2015\Projects\Banco_De_Dados\Banco_De_Dados\obj\Debug\Banco_De_Dados.Form1.resources
+c:\users\fabricio\documents\visual studio 2015\Projects\Banco_De_Dados\Banco_De_Dados\obj\Debug\Banco_De_Dados.Properties.Resources.resources
+c:\users\fabricio\documents\visual studio 2015\Projects\Banco_De_Dados\Banco_De_Dados\obj\Debug\Banco_De_Dados.csproj.GenerateResource.Cache
+c:\users\fabricio\documents\visual studio 2015\Projects\Banco_De_Dados\Banco_De_Dados\obj\Debug\Banco_De_Dados.exe
+c:\users\fabricio\documents\visual studio 2015\Projects\Banco_De_Dados\Banco_De_Dados\obj\Debug\Banco_De_Dados.pdb
