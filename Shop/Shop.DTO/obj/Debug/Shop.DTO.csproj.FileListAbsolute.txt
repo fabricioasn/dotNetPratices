@@ -1,0 +1,5 @@
+c:\Users\Fabricio\documents\visual studio 2015\Projects\Shop\Shop.DTO\bin\Debug\Shop.DTO.dll
+c:\Users\Fabricio\documents\visual studio 2015\Projects\Shop\Shop.DTO\bin\Debug\Shop.DTO.pdb
+c:\Users\Fabricio\documents\visual studio 2015\Projects\Shop\Shop.DTO\obj\Debug\Shop.DTO.csprojResolveAssemblyReference.cache
+c:\Users\Fabricio\documents\visual studio 2015\Projects\Shop\Shop.DTO\obj\Debug\Shop.DTO.dll
+c:\Users\Fabricio\documents\visual studio 2015\Projects\Shop\Shop.DTO\obj\Debug\Shop.DTO.pdb
