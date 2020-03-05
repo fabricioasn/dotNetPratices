@@ -1,1 +1,1 @@
-c:\users\fabricio\documents\visual studio 2015\Projects\Shop\Shop\bin\Debug\Shop.exe.config
+C:\Users\Fabricio\Documents\Visual Studio 2015\Projects\SYSTEM\Shop\Shop\bin\Debug\Shop.exe.config

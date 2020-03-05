@@ -1,7 +1,7 @@
-c:\Users\Fabricio\documents\visual studio 2015\Projects\Shop\Shop.DAL\bin\Debug\Shop.DAL.dll
-c:\Users\Fabricio\documents\visual studio 2015\Projects\Shop\Shop.DAL\bin\Debug\Shop.DAL.pdb
-c:\Users\Fabricio\documents\visual studio 2015\Projects\Shop\Shop.DAL\bin\Debug\Shop.DTO.dll
-c:\Users\Fabricio\documents\visual studio 2015\Projects\Shop\Shop.DAL\bin\Debug\Shop.DTO.pdb
-c:\Users\Fabricio\documents\visual studio 2015\Projects\Shop\Shop.DAL\obj\Debug\Shop.DAL.csprojResolveAssemblyReference.cache
-c:\Users\Fabricio\documents\visual studio 2015\Projects\Shop\Shop.DAL\obj\Debug\Shop.DAL.dll
-c:\Users\Fabricio\documents\visual studio 2015\Projects\Shop\Shop.DAL\obj\Debug\Shop.DAL.pdb
+C:\Users\Fabricio\Documents\Visual Studio 2015\Projects\SYSTEM\Shop\Shop.DAL\bin\Debug\Shop.DAL.dll
+C:\Users\Fabricio\Documents\Visual Studio 2015\Projects\SYSTEM\Shop\Shop.DAL\bin\Debug\Shop.DAL.pdb
+C:\Users\Fabricio\Documents\Visual Studio 2015\Projects\SYSTEM\Shop\Shop.DAL\bin\Debug\Loja.DTO.dll
+C:\Users\Fabricio\Documents\Visual Studio 2015\Projects\SYSTEM\Shop\Shop.DAL\bin\Debug\Loja.DTO.pdb
+C:\Users\Fabricio\Documents\Visual Studio 2015\Projects\SYSTEM\Shop\Shop.DAL\obj\Debug\Shop.DAL.csprojResolveAssemblyReference.cache
+C:\Users\Fabricio\Documents\Visual Studio 2015\Projects\SYSTEM\Shop\Shop.DAL\obj\Debug\Shop.DAL.dll
+C:\Users\Fabricio\Documents\Visual Studio 2015\Projects\SYSTEM\Shop\Shop.DAL\obj\Debug\Shop.DAL.pdb
