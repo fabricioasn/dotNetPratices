@@ -1,0 +1,9 @@
+c:\users\fabricio\documents\visual studio 2015\Projects\Calculo_IMC\Calculo_IMC\bin\Debug\Calculo_IMC.exe.config
+c:\users\fabricio\documents\visual studio 2015\Projects\Calculo_IMC\Calculo_IMC\bin\Debug\Calculo_IMC.exe
+c:\users\fabricio\documents\visual studio 2015\Projects\Calculo_IMC\Calculo_IMC\bin\Debug\Calculo_IMC.pdb
+c:\users\fabricio\documents\visual studio 2015\Projects\Calculo_IMC\Calculo_IMC\obj\Debug\Calculo_IMC.csprojResolveAssemblyReference.cache
+c:\users\fabricio\documents\visual studio 2015\Projects\Calculo_IMC\Calculo_IMC\obj\Debug\Calculo_IMC.Form1.resources
+c:\users\fabricio\documents\visual studio 2015\Projects\Calculo_IMC\Calculo_IMC\obj\Debug\Calculo_IMC.Properties.Resources.resources
+c:\users\fabricio\documents\visual studio 2015\Projects\Calculo_IMC\Calculo_IMC\obj\Debug\Calculo_IMC.csproj.GenerateResource.Cache
+c:\users\fabricio\documents\visual studio 2015\Projects\Calculo_IMC\Calculo_IMC\obj\Debug\Calculo_IMC.exe
+c:\users\fabricio\documents\visual studio 2015\Projects\Calculo_IMC\Calculo_IMC\obj\Debug\Calculo_IMC.pdb

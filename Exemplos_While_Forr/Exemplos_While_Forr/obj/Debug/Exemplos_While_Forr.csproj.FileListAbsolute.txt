@@ -1,0 +1,10 @@
+c:\users\fabricio\documents\visual studio 2015\Projects\Exemplos_While_Forr\Exemplos_While_Forr\bin\Debug\Exemplos_While_Forr.exe.config
+c:\users\fabricio\documents\visual studio 2015\Projects\Exemplos_While_Forr\Exemplos_While_Forr\bin\Debug\Exemplos_While_Forr.exe
+c:\users\fabricio\documents\visual studio 2015\Projects\Exemplos_While_Forr\Exemplos_While_Forr\bin\Debug\Exemplos_While_Forr.pdb
+c:\users\fabricio\documents\visual studio 2015\Projects\Exemplos_While_Forr\Exemplos_While_Forr\obj\Debug\Exemplos_While_Forr.csprojResolveAssemblyReference.cache
+c:\users\fabricio\documents\visual studio 2015\Projects\Exemplos_While_Forr\Exemplos_While_Forr\obj\Debug\Exemplos_While_Forr.Form1.resources
+c:\users\fabricio\documents\visual studio 2015\Projects\Exemplos_While_Forr\Exemplos_While_Forr\obj\Debug\Exemplos_While_Forr.Form2.resources
+c:\users\fabricio\documents\visual studio 2015\Projects\Exemplos_While_Forr\Exemplos_While_Forr\obj\Debug\Exemplos_While_Forr.Properties.Resources.resources
+c:\users\fabricio\documents\visual studio 2015\Projects\Exemplos_While_Forr\Exemplos_While_Forr\obj\Debug\Exemplos_While_Forr.csproj.GenerateResource.Cache
+c:\users\fabricio\documents\visual studio 2015\Projects\Exemplos_While_Forr\Exemplos_While_Forr\obj\Debug\Exemplos_While_Forr.exe
+c:\users\fabricio\documents\visual studio 2015\Projects\Exemplos_While_Forr\Exemplos_While_Forr\obj\Debug\Exemplos_While_Forr.pdb

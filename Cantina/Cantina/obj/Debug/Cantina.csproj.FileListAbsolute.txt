@@ -1,0 +1,9 @@
+c:\users\fabricio\documents\visual studio 2015\Projects\Cantina\Cantina\bin\Debug\Cantina.exe.config
+c:\users\fabricio\documents\visual studio 2015\Projects\Cantina\Cantina\bin\Debug\Cantina.exe
+c:\users\fabricio\documents\visual studio 2015\Projects\Cantina\Cantina\bin\Debug\Cantina.pdb
+c:\users\fabricio\documents\visual studio 2015\Projects\Cantina\Cantina\obj\Debug\Cantina.csprojResolveAssemblyReference.cache
+c:\users\fabricio\documents\visual studio 2015\Projects\Cantina\Cantina\obj\Debug\Cantina.Form1.resources
+c:\users\fabricio\documents\visual studio 2015\Projects\Cantina\Cantina\obj\Debug\Cantina.Properties.Resources.resources
+c:\users\fabricio\documents\visual studio 2015\Projects\Cantina\Cantina\obj\Debug\Cantina.csproj.GenerateResource.Cache
+c:\users\fabricio\documents\visual studio 2015\Projects\Cantina\Cantina\obj\Debug\Cantina.exe
+c:\users\fabricio\documents\visual studio 2015\Projects\Cantina\Cantina\obj\Debug\Cantina.pdb

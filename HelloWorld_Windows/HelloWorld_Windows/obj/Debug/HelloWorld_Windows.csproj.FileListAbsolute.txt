@@ -1,0 +1,8 @@
+c:\users\fabricio\documents\visual studio 2015\Projects\HelloWorld_Windows\HelloWorld_Windows\bin\Debug\HelloWorld_Windows.exe.config
+c:\users\fabricio\documents\visual studio 2015\Projects\HelloWorld_Windows\HelloWorld_Windows\bin\Debug\HelloWorld_Windows.exe
+c:\users\fabricio\documents\visual studio 2015\Projects\HelloWorld_Windows\HelloWorld_Windows\bin\Debug\HelloWorld_Windows.pdb
+c:\users\fabricio\documents\visual studio 2015\Projects\HelloWorld_Windows\HelloWorld_Windows\obj\Debug\HelloWorld_Windows.Form1.resources
+c:\users\fabricio\documents\visual studio 2015\Projects\HelloWorld_Windows\HelloWorld_Windows\obj\Debug\HelloWorld_Windows.Properties.Resources.resources
+c:\users\fabricio\documents\visual studio 2015\Projects\HelloWorld_Windows\HelloWorld_Windows\obj\Debug\HelloWorld_Windows.csproj.GenerateResource.Cache
+c:\users\fabricio\documents\visual studio 2015\Projects\HelloWorld_Windows\HelloWorld_Windows\obj\Debug\HelloWorld_Windows.exe
+c:\users\fabricio\documents\visual studio 2015\Projects\HelloWorld_Windows\HelloWorld_Windows\obj\Debug\HelloWorld_Windows.pdb

@@ -1,0 +1,9 @@
+c:\users\fabricio\documents\visual studio 2015\Projects\Array_Multi\Array_Multi\bin\Debug\Array_Multi.exe.config
+c:\users\fabricio\documents\visual studio 2015\Projects\Array_Multi\Array_Multi\bin\Debug\Array_Multi.exe
+c:\users\fabricio\documents\visual studio 2015\Projects\Array_Multi\Array_Multi\bin\Debug\Array_Multi.pdb
+c:\users\fabricio\documents\visual studio 2015\Projects\Array_Multi\Array_Multi\obj\Debug\Array_Multi.csprojResolveAssemblyReference.cache
+c:\users\fabricio\documents\visual studio 2015\Projects\Array_Multi\Array_Multi\obj\Debug\Array_Multi.Form1.resources
+c:\users\fabricio\documents\visual studio 2015\Projects\Array_Multi\Array_Multi\obj\Debug\Array_Multi.Properties.Resources.resources
+c:\users\fabricio\documents\visual studio 2015\Projects\Array_Multi\Array_Multi\obj\Debug\Array_Multi.csproj.GenerateResource.Cache
+c:\users\fabricio\documents\visual studio 2015\Projects\Array_Multi\Array_Multi\obj\Debug\Array_Multi.exe
+c:\users\fabricio\documents\visual studio 2015\Projects\Array_Multi\Array_Multi\obj\Debug\Array_Multi.pdb

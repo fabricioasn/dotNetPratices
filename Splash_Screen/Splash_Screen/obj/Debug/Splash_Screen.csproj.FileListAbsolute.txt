@@ -1,0 +1,9 @@
+c:\users\fabricio\documents\visual studio 2015\Projects\Splash_Screen\Splash_Screen\bin\Debug\Splash_Screen.exe.config
+c:\users\fabricio\documents\visual studio 2015\Projects\Splash_Screen\Splash_Screen\bin\Debug\Splash_Screen.exe
+c:\users\fabricio\documents\visual studio 2015\Projects\Splash_Screen\Splash_Screen\bin\Debug\Splash_Screen.pdb
+c:\users\fabricio\documents\visual studio 2015\Projects\Splash_Screen\Splash_Screen\obj\Debug\Splash_Screen.csprojResolveAssemblyReference.cache
+c:\users\fabricio\documents\visual studio 2015\Projects\Splash_Screen\Splash_Screen\obj\Debug\Splash_Screen.AboutBox1.resources
+c:\users\fabricio\documents\visual studio 2015\Projects\Splash_Screen\Splash_Screen\obj\Debug\Splash_Screen.Properties.Resources.resources
+c:\users\fabricio\documents\visual studio 2015\Projects\Splash_Screen\Splash_Screen\obj\Debug\Splash_Screen.csproj.GenerateResource.Cache
+c:\users\fabricio\documents\visual studio 2015\Projects\Splash_Screen\Splash_Screen\obj\Debug\Splash_Screen.exe
+c:\users\fabricio\documents\visual studio 2015\Projects\Splash_Screen\Splash_Screen\obj\Debug\Splash_Screen.pdb

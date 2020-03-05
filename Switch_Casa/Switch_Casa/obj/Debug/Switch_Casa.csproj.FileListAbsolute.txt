@@ -1,0 +1,10 @@
+c:\users\fabricio\documents\visual studio 2015\Projects\Switch_Casa\Switch_Casa\bin\Debug\Switch_Casa.exe.config
+c:\users\fabricio\documents\visual studio 2015\Projects\Switch_Casa\Switch_Casa\bin\Debug\Switch_Casa.exe
+c:\users\fabricio\documents\visual studio 2015\Projects\Switch_Casa\Switch_Casa\bin\Debug\Switch_Casa.pdb
+c:\users\fabricio\documents\visual studio 2015\Projects\Switch_Casa\Switch_Casa\obj\Debug\Switch_Casa.csprojResolveAssemblyReference.cache
+c:\users\fabricio\documents\visual studio 2015\Projects\Switch_Casa\Switch_Casa\obj\Debug\Switch_Casa.Form1.resources
+c:\users\fabricio\documents\visual studio 2015\Projects\Switch_Casa\Switch_Casa\obj\Debug\Switch_Casa.Properties.Resources.resources
+c:\users\fabricio\documents\visual studio 2015\Projects\Switch_Casa\Switch_Casa\obj\Debug\Switch_Casa.csproj.GenerateResource.Cache
+c:\users\fabricio\documents\visual studio 2015\Projects\Switch_Casa\Switch_Casa\obj\Debug\Switch_Casa.exe
+c:\users\fabricio\documents\visual studio 2015\Projects\Switch_Casa\Switch_Casa\obj\Debug\Switch_Casa.pdb
+c:\users\fabricio\documents\visual studio 2015\Projects\Switch_Casa\Switch_Casa\obj\Debug\Switch_Casa.Form2.resources

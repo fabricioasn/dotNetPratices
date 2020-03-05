@@ -1,0 +1,8 @@
+c:\users\fabricio\documents\visual studio 2015\Projects\Conceito_Do_While\Conceito_Do_While\bin\Debug\Conceito_Do_While.exe.config
+c:\users\fabricio\documents\visual studio 2015\Projects\Conceito_Do_While\Conceito_Do_While\bin\Debug\Conceito_Do_While.exe
+c:\users\fabricio\documents\visual studio 2015\Projects\Conceito_Do_While\Conceito_Do_While\bin\Debug\Conceito_Do_While.pdb
+c:\users\fabricio\documents\visual studio 2015\Projects\Conceito_Do_While\Conceito_Do_While\obj\Debug\Conceito_Do_While.Form1.resources
+c:\users\fabricio\documents\visual studio 2015\Projects\Conceito_Do_While\Conceito_Do_While\obj\Debug\Conceito_Do_While.Properties.Resources.resources
+c:\users\fabricio\documents\visual studio 2015\Projects\Conceito_Do_While\Conceito_Do_While\obj\Debug\Conceito_Do_While.csproj.GenerateResource.Cache
+c:\users\fabricio\documents\visual studio 2015\Projects\Conceito_Do_While\Conceito_Do_While\obj\Debug\Conceito_Do_While.exe
+c:\users\fabricio\documents\visual studio 2015\Projects\Conceito_Do_While\Conceito_Do_While\obj\Debug\Conceito_Do_While.pdb

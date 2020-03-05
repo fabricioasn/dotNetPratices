@@ -1,0 +1,8 @@
+c:\users\fabricio\documents\visual studio 2015\Projects\Variavel\Variavel\bin\Debug\Variavel.exe.config
+c:\users\fabricio\documents\visual studio 2015\Projects\Variavel\Variavel\obj\Debug\Variavel.Form1.resources
+c:\users\fabricio\documents\visual studio 2015\Projects\Variavel\Variavel\obj\Debug\Variavel.Properties.Resources.resources
+c:\users\fabricio\documents\visual studio 2015\Projects\Variavel\Variavel\obj\Debug\Variavel.csproj.GenerateResource.Cache
+c:\users\fabricio\documents\visual studio 2015\Projects\Variavel\Variavel\bin\Debug\Variavel.exe
+c:\users\fabricio\documents\visual studio 2015\Projects\Variavel\Variavel\bin\Debug\Variavel.pdb
+c:\users\fabricio\documents\visual studio 2015\Projects\Variavel\Variavel\obj\Debug\Variavel.exe
+c:\users\fabricio\documents\visual studio 2015\Projects\Variavel\Variavel\obj\Debug\Variavel.pdb

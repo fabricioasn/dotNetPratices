@@ -1,0 +1,9 @@
+C:\Users\Fabricio\Documents\Visual Studio 2015\Projects\While\Tabuada\bin\Debug\Tabuada.exe.config
+C:\Users\Fabricio\Documents\Visual Studio 2015\Projects\While\Tabuada\bin\Debug\Tabuada.exe
+C:\Users\Fabricio\Documents\Visual Studio 2015\Projects\While\Tabuada\bin\Debug\Tabuada.pdb
+C:\Users\Fabricio\Documents\Visual Studio 2015\Projects\While\Tabuada\obj\Debug\Tabuada.csprojResolveAssemblyReference.cache
+C:\Users\Fabricio\Documents\Visual Studio 2015\Projects\While\Tabuada\obj\Debug\Tabuada.Form1.resources
+C:\Users\Fabricio\Documents\Visual Studio 2015\Projects\While\Tabuada\obj\Debug\Tabuada.Properties.Resources.resources
+C:\Users\Fabricio\Documents\Visual Studio 2015\Projects\While\Tabuada\obj\Debug\Tabuada.csproj.GenerateResource.Cache
+C:\Users\Fabricio\Documents\Visual Studio 2015\Projects\While\Tabuada\obj\Debug\Tabuada.exe
+C:\Users\Fabricio\Documents\Visual Studio 2015\Projects\While\Tabuada\obj\Debug\Tabuada.pdb
