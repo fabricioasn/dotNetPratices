@@ -47,13 +47,13 @@ namespace Shop
         {
             try
             {
-             IList<user_DTO> listUser_DTO = new List<user_DTO>();
+                IList<user_DTO> listUser_DTO = new List<user_DTO>();
                 listUser_DTO = new UserBLL().chargeUser();
                 //preenchimento dos dados no DataGridView
-                dataGridView1.DataSource = listUser_DTO;    
-            
-            
-            }catch(Exception ex)
+                dataGridView1.DataSource = listUser_DTO;
+
+
+            } catch (Exception ex)
             {
                 throw ex;
             }
@@ -65,23 +65,34 @@ namespace Shop
              * selecionada no momento */
             int selected = dataGridView1.CurrentRow.Index;
             //valor de cada dataGrid enviado para o respectivo txtBox
-         txtBoxName.Text = Convert.ToString(dataGridView1["name", selected].Value);
-         txtBoxLogin.Text = Convert.ToString(dataGridView1["login", selected].Value);
-         txtBoxEmail.Text = Convert.ToString(dataGridView1["email", selected].Value);
-         txtBoxPswd.Text = Convert.ToString(dataGridView1["password", selected].Value);
-         txtBoxReg.Text = Convert.ToString(dataGridView1["register", selected].Value);
-         /*validação condicional para verificar a situação, 
-          * caso A combobox seleciona Ativo, caso I seleciona Inativo*/
-         if(Convert.ToString(dataGridView1["situation", selected].Value) == "A")
+            txtBoxName.Text = Convert.ToString(dataGridView1["name", selected].Value);
+            txtBoxLogin.Text = Convert.ToString(dataGridView1["login", selected].Value);
+            txtBoxEmail.Text = Convert.ToString(dataGridView1["email", selected].Value);
+            txtBoxPswd.Text = Convert.ToString(dataGridView1["password", selected].Value);
+            txtBoxReg.Text = Convert.ToString(dataGridView1["register", selected].Value);
+            /*validação condicional para verificar a situação, 
+             * caso A combobox seleciona Ativo, caso I seleciona Inativo*/
+            if (Convert.ToString(dataGridView1["situation", selected].Value) == "A")
             {
                 cboSituation.Text = "Ativo";
             }
             else {
                 cboSituation.Text = "Inativo";
-            cboProfile.Text = Convert.ToString(dataGridView1["profile", selected].Value);
+                cboProfile.Text = Convert.ToString(dataGridView1["profile", selected].Value);
             }
-
-
-        }
-    }
+            switch (Convert.ToString(dataGridView1["profile", selected].Value)){
+                /*switchcase para escolher qual o nome exibido no data grid 
+                 * para o perfil designado 1-admin, 2-operac, 3-gerenc */
+                case "1":
+                    cboProfile.Text = "Administrador";
+                    break;
+                case "2":
+                    cboProfile.Text = "Operacional";
+                    break;
+                case "3":
+                    cboProfile.Text = "Gerencial";
+                    break;
+            }
+         }
+ }
 }
