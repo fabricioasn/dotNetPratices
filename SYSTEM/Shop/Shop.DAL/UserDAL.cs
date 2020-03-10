@@ -62,5 +62,37 @@ namespace Shop.DAL
                 throw ex;
             }
         }
+    public int inserirUsuario(user_DTO user)
+        {
+            try
+            {
+             // aqui é feita a conexão com o BD e a inserção dos dados novos na tabela
+             SqlConnection conn = new SqlConnection();
+             conn.ConnectionString = Properties.Settings.Default.CST;
+             SqlCommand cmd = new SqlCommand();
+             cmd.CommandType = System.Data.CommandType.Text;
+                cmd.CommandText = "INSERT INTO tbl_Users (name, login, email, password, register, situation, profile" +
+                "VALUES (@name, @login,@email, @password, @register, @situation, @profile)";
+                //SQL parameters, método para transpor os valores do campo para varchar
+             cmd.Parameters.Add("name", System.Data.SqlDbType.NVarChar).Value = user.name;
+             cmd.Parameters.Add("login", System.Data.SqlDbType.NVarChar).Value = user.login;
+             cmd.Parameters.Add("email", System.Data.SqlDbType.VarChar).Value = user.email;
+             cmd.Parameters.Add("password", System.Data.SqlDbType.NVarChar).Value = user.password;
+             cmd.Parameters.Add("register", System.Data.SqlDbType.DateTime).Value = user.register;
+             cmd.Parameters.Add("situation", System.Data.SqlDbType.VarChar).Value = user.situation;
+             cmd.Parameters.Add("profile", System.Data.SqlDbType.Int).Value = user.profile;
+
+             cmd.Connection = conn;
+             conn.Open();
+                int qtdereg = cmd.ExecuteNonQuery();
+                return qtdereg;
+
+
+            }
+            catch(Exception ex)
+            {
+                throw ex;
+            }
+        }
     }
 }

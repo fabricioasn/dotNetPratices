@@ -13,6 +13,7 @@ namespace Shop
 {
     public partial class Cadastro_usuario : Form
     {
+        string mode = "";
         public Cadastro_usuario()
         {
             InitializeComponent();
@@ -94,5 +95,79 @@ namespace Shop
                     break;
             }
          }
- }
+
+        private void btnNew_Click(object sender, EventArgs e)
+        {
+            //chamada de método para limpeza dos campos
+            limpar_campos();
+            //inserir no campo register a data atual, após clicar em Novo
+            txtBoxReg.Text = Convert.ToString(System.DateTime.Now);
+            //registro em string do click no botão novo, carregado após o feito
+            mode = "novo"; 
+        }
+      // método para limpar todos os campos
+       private void limpar_campos()
+        {
+            txtBoxName.Text = "";
+            txtBoxLogin.Text = "";
+            txtBoxPswd.Text = "";
+            txtBoxEmail.Text = "";
+            txtBoxReg.Text = "";
+            cboProfile.Text = "";
+            cboSituation.Text = "";
+
+        }
+
+        private void btnConfirm_Click(object sender, EventArgs e)
+        {
+            if (mode == "novo")
+            {
+                try
+                {
+                    //instanciação do objeto usuário, que conta registros de usuário no BD
+                    user_DTO user = new user_DTO();
+                    user.name = txtBoxName.Text;
+                    user.login = txtBoxLogin.Text;
+                    user.password = txtBoxPswd.Text;
+                    user.email = txtBoxEmail.Text;
+                    user.register = System.DateTime.Now;
+                    if(cboSituation.Text == "Ativo")
+                    {
+                        user.situation = "A";
+                    }else
+                    {
+                        user.situation = "I";
+                    }
+                    switch (cboProfile.Text)
+                    {
+                        case "Administrador":
+                            user.profile = 1;
+                            break;
+                        case "Operacional":
+                            user.profile = 2;
+                            break;
+                        case "Gerencial":
+                            user.profile = 3;
+                            break;
+                    }
+
+                    //teste do método para inserção de novo usuário na classe BLL
+                    int cont = new UserBLL().inserirUsuario(user);
+                    if (cont > 0)
+                    {
+                     MessageBox.Show("Novo usuário gravado com sucesso!");
+
+                    }
+
+                }catch(Exception ex)
+                {
+                    MessageBox.Show("Erro Inesperado!" + ex.Message);
+                }
+
+
+
+            }
+            mode = "";
+        }
+    }
 }

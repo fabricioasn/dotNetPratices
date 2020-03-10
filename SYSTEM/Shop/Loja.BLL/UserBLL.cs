@@ -23,6 +23,16 @@ namespace Shop.BLL
                 throw ex;
             }
         }
-     
+     public int inserirUsuario(user_DTO user)
+        {
+            //sobreescrita do método que será criado na DAL
+            try
+            {
+                return new UserDAL().inserirUsuario(user);
+            }catch(Exception ex)
+            {
+                throw ex;
+            }
+        }
     }
 }
